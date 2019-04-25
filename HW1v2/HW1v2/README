@@ -1,0 +1,6 @@
+Implement fork version and select version of sock
+
+++ Implement client sock
+++ all of them are implemented by class to easy to use and read
+++ class: sTCP for sever cTCP for client select_sTCP for select TCP version in TCP.h
+++ class: cHTTP for sever to deal with the HTTP header which supports GET option  
